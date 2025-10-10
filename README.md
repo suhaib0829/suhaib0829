@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Suhaib
 
 # 💫 About Me:
-🎓 Currently studying at Unicom TIC<br><br>💻 Working on C# Windows Forms applications using the .NET Framework<br><br>🚀 Passionate about software development and building desktop applications<br><br>🌱 Always learning and improving my skills in C#, .NET, and software design
+🎓 Currently studying at Unicom TIC<br><br>💻 Working on frontend development and React Native mobile app development<br><br>🚀 Passionate about creating responsive web applications and cross-platform mobile apps<br><br>🌱 Always learning and improving my skills in JavaScript, React, React Native, and modern frontend technologies.
 
 
 ## 🌐 Socials:
