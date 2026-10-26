@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Suhaib
 
 # 💫 About Me:
-🎓 Currently studying at Unicom TIC<br><br>💻 Working on frontend development and React Native mobile app development<br><br>🚀 Passionate about creating responsive web applications and cross-platform mobile apps<br><br>🌱 Always learning and improving my skills in JavaScript, React, React Native, and modern frontend technologies.
+🎓 Higher Diploma student in Network Technology & Cybersecurity at ICBT Campus Colombo (Cardiff Metropolitan University, UK)<br><br>💻 Frontend development with JavaScript, React, and React Native<br><br>🔐 Exploring networking and cybersecurity fundamentals<br><br>🌱 Always learning, from responsive web apps and cross-platform mobile apps to securing the networks they run on<br><br>📍 Based in Colombo, Sri Lanka
 
 
 ## 🌐 Socials:
