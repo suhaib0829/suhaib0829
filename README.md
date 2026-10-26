@@ -1,4 +1,4 @@
-##Hi there 👋, I'm Suhaib
+Hi there 👋, I'm Suhaib
 
 # 💫 About Me:
 🎓 Higher Diploma student in Network Technology & Cybersecurity at ICBT Campus Colombo (Cardiff Metropolitan University, UK)<br><br>💻 Frontend development with JavaScript, React, and React Native<br><br>🔐 Exploring networking and cybersecurity fundamentals<br><br>🌱 Always learning, from responsive web apps and cross-platform mobile apps to securing the networks they run on<br><br>📍 Based in Colombo, Sri Lanka
